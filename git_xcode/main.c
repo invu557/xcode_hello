@@ -14,5 +14,6 @@ int main(int argc, const char * argv[]) {
     printf("World, WRYYYY!!!!");
     printf("Hello, Luna");
     printf("Both accepted!!");
+    printf("Hello! Local repository");
     return 0;
 }
